@@ -29,13 +29,15 @@
 <br>
 
 ## Git Status
-![oFelpex's Stats](https://github-readme-stats.vercel.app/api?username=oFelpex&theme=nord&show_icons=true&hide_border=true&count_private=true)
-![oFelpex's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oFelpex&theme=nord&hide_border=true)
-![oFelpex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oFelpex&theme=nord&show_icons=true&hide_border=true&layout=compact)
+<div align="center" style="display: inline">
+  <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api?username=oFelpex&theme=nord&show_icons=true&hide_border=true&count_private=true" />
+  <img height="175em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oFelpex&theme=nord&show_icons=true&hide_border=true&layout=compact" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oFelpex/oFelpex/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oFelpex/oFelpex/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oFelpex/oFelpex/output/github-contribution-grid-snake.svg">
-</picture>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oFelpex/oFelpex/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oFelpex/oFelpex/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oFelpex/oFelpex/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
