@@ -1,15 +1,15 @@
-## Bom dia, boa tarde ou boa noite! 😄
+## Hello! You are very welcome! 😄
 <div style="display: inline-block">
   <ul>
     <img align="right" height="90" src="https://i.pinimg.com/originals/35/ac/8c/35ac8cf46b56cb4681a7c5055b818a89.gif" />
     <li>
-      👨‍💻 Meu nome é Felipe, mas pode me chamar de Felpex
+      👨‍💻 My name is Felipe, but you can call me Felpex
     </li>
     <li>
-      📝 Atualmente me estudando Angular
+      📝 Currently improving my knowledge in Angular
     </li>
     <li>
-      💻 Bacharelado em Ciências e Tecnologia com ênfase em Computação Aplicada
+      💻 Bachelor of Science and Technology with an emphasis on Applied Computing
     </li>
   </ul>
 </div>
@@ -22,7 +22,7 @@
 </div>
 <br>
 
-## Tecnologias
+## Technologies
 <pre style="display: inline-block" align="center">
   <img align="center" height="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />    <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />    <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />    <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />    <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />    <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />    <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />    <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </pre>
