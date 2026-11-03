@@ -29,11 +29,6 @@
 <br>
 
 ## Git Status
-<div align="center" style="display: inline">
-  <img height="172em" width="50%" src="https://github-readme-stats.vercel.app/api?username=oFelpex&theme=nord&show_icons=true&hide_border=true&count_private=true" />
-  <img height="172em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oFelpex&theme=nord&show_icons=true&hide_border=true&layout=compact" />
-</div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oFelpex/oFelpex/output/github-contribution-grid-snake-dark.svg">
